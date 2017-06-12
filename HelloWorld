@@ -1,0 +1,9 @@
+public class HelloWorld {
+    private static void printLine() {
+        System.out.println("Hello World!");
+    }
+    
+    public void main(args[]) {
+        printLine();
+    }
+}
